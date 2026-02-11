@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaeddine-fredj.
+- 👋 Hi, I’m Ala.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m Junior AI Developer.
 - 💞️ I’m looking to collaborate on projects related to data analysis.
