@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m Junior AI Developer.
 - 💞️ I’m looking to collaborate on projects related to data analysis.
-- 📫 You can reach me through email at alafredj8@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/ala-eddine-fredj/.
+- 📫 You can reach me through email at alafredj8@gmail.com.
