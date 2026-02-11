@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ala.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m Junior AI Developer.
-- 💞️ I’m looking to collaborate on projects related to data analysis.
-- 📫 You can reach me through email at alafredj8@gmail.com.
+## About Me
+- 👋 **Hello, I’m Ala Eddine Fredj**  
+- 👀 **Interests:** Data Science, Machine Learning, and AI development  
+- 🌱 **Current Role:** Junior AI Developer  
+- 💼 **Collaboration:** Open to contributing to data analysis and AI projects  
+- 📫 **Contact:** Reach me via email at alafredj8@gmail.com.
